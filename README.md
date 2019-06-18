@@ -38,7 +38,7 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 +  then i kept a class  to disable card as if two cards matches and are disabled by the class `disable`.
 + And then i given a method to close the cards if they doesn't matches.
 + then i  started working on star counter, and  then initially the star count will be 3
-   if the moves count is more than 12 then you lost one star and if moves count is more than 18 then you will lose another star
+   if the moves count is more than 15 then you lost one star and if moves count is more than 17 then you will lose another star
 + then i given a timer which shows the time taken to complete game
 + after completing game the timer should stop by using `clearInterval`.
 + And i given reload function for reloading game to start from starting.
