@@ -136,7 +136,7 @@ function starRating() {
 		starCount = 2;
 		starSection[2].style.display = "none";
 	}
-	if (moves >= 17) {
+	if (moves > 17) {
 		starCount = 1;
 		starSection[1].style.display = "none";
 	}
